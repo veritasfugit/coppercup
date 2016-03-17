@@ -1,0 +1,11 @@
+Meine Spielidee in a Nutshell
+
+Spieler Lesen eine Geschichte und muessen Entscheidungen ueber Eingabefelder treffen,
+Eventuell Raetsel loesen.
+Andere Spieler koennen andere Rollen in der Geschichte uebernehmen.
+Dazu simpelste Benutzerkontenfunktionen, nur Username mit PW, Keine Email.
+Spieler agieren unabhaengig voneinander, 
+kein Zwang gleichzeitig zu spielen oder zu warten.
+Die Entscheidungen der Spieler werden in einer Datenbank gespeichert.
+Entscheidungen beeinflussen eine uebergeordnete Geschichte die nach 
+Beendigung der Durchgaenge aller Spieler oeffentlich einsehbar ist.

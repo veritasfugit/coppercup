@@ -1,4 +1,4 @@
-Meine Spielidee in a Nutshell
+Meine Projektidee in a Nutshell
 
 Spieler Lesen eine Geschichte und muessen Entscheidungen ueber Eingabefelder treffen,
 Eventuell Raetsel loesen.

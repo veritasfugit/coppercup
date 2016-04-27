@@ -1,4 +1,10 @@
-===Aktualisierte Projektidee veritasfugit, 2016-04-11 ===
+=== Feedback Alpers, 2016-04-27 ===
+
+Da Sie ohne Rücksprach eine Projektidee umgesetzt habe, haben Sie jetzt ein Problem: Sie sollten gerade kein Spiel umsetzen, das Sie kennen. Hätten Sie mich hierzu angesprochen, dann hätte ich Ihnen das direkt gesagt. Also gilt weiterhin: Bitte verwenden Sie als Vorlage für Ihr Projekt das Spiel Monopoly.
+
+Und wenn Ihnen das zu hart vorkommt: Das Ziel des Projekts ist, dass Sie auf die Projektarbeit im realen Leben vorbereitet werden. Wenn Sie dort eigenmächtig Entscheidungen treffen, die der Kunde nicht haben möchte, dann wird Ihnen dort genau das selbe passieren wie jetzt auch: Sie haben über Wochen an etwas gearbeitet und müssen alles wieder verwerfen. Das gilt umso mehr, wenn Sie solche Entscheidungen nicht mit Kunden absprechen. Es kann Ihnen in solchen Fällen sogar passieren, dass der Kunde seinen Auftrag vollständig zurückzieht und Sie sich einen neuen Auftraggeber suchen müssen.
+
+=== Aktualisierte Projektidee veritasfugit, 2016-04-11 ===
 
 //Da Sie mein Altes Projekt zu wenig Interaktiv fanden, doch mir im Gegenzug ihre Vorschläge nicht gefallen 
 //ändere ich meinen Projektvorschlag jetzt auf eine vereinfachte Variante des ansonsten sehr komplexen Kartenspiels "Thunderstone"

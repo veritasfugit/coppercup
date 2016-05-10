@@ -1,3 +1,53 @@
+=== 2. Aktualisiertes Projekt veritasfugit, 2016-05-10 ===
+
+Es gibt 2-8 Spieler die durch eine Figur auf dem Spielfeld repräsentiert werden, Jeder Spieler hat ein festes Startkapital von 15000 Währungseinheiten.
+Die Spielerfiguren fangen alle auf dem Eckfeld "Los" an.
+Die Spieler sind nacheinander an der Reihe, Würfeln mit einem 6 Seitigen Würfel, 
+ziehen ihr Spielfigur im Uhrzeigersinn um die gewürfelte Anzahl vorwärts und führt die mit dem Zielfeld verknüpften Befehle aus.
+Wenn ein Spieler auf eine Straße ziehen muss die bereits im Besitz eines anderen Spielers ist muss er dem Besitzer Mietzahlungn abhängig von den
+auf der Straße gebauten Häusern/Hotels zahlen.
+Wenn ein Spieler diese Miete nicht zahlen kann, hat er mehrere Möglichkeiten.
+ - Hypothek auf eigene Straße aufnehmen um von der Bank etwas Geld zu bekommen.
+ - eine Straße an den anderen Spieler abtreten.
+ - Aus dem "Spiel" aussteigen.
+Wenn ein Spieler auf eine Straße im eigenen Besitz kommt und er alle Straßen von diesem Set besitzt, 
+kann er Häuser oder Hotels kaufen um die "Mietkosten" für fremde Spieler die auf solch eine Straße
+treten zu erhöhen. 
+
+Das Spiel endet wenn alle bis auf einen Spieler ausgestiegen sind. 
+
+Das Spielfeld besteht aus 40 Feldern die in einem Quadrat angeordnet sind: 
+- 22 Straßenfelder
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über eine Straße darstellt und weitere Sonderregeln aufzählt.
+- 4 Bahnhofsfelder
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über einen Bahnhof darstellt und weitere Sonderregeln aufzählt.
+- Jeweils 1 Elektrizitäts und Wasserwerkfeld
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über ein Werk darstellt und weitere Sonderregeln aufzählt.
+- 3 Ereignisfelder
+	- Weisen an, eine Karte vom Ereignisstapel zu ziehen und die Anweisung auszuführen.
+- 3 Gemeinschaftsfelder
+	- Weisen an, eine Karte vom Gemeinschaftsstapel zu ziehen und die Anweisung auszuführen.
+- Jeweils 1 Zusatzsteuer und Einkommenssteuerfeld
+	- Verpflichten zur Zahlung eines festen Geldbetrages an die "Steuerkasse".
+- 1 Los Feld
+	- Als Startpunkt für alle Spielerfiguren. Bei wiederholtem überschreiten bekommt der Spieler 4000 Währungseinheiten.
+- 1 Gefängnisfeld
+- 1 Frei Parkenfeld
+- 1 Gehe ins Gefängnisfeld
+
+Zusätzlich befindet sich auf dem Spielplan:
+- Jeweils 1 Ereigniskarten und Gemeinschaftskartenstapel
+- die "Steuerkasse"
+
+Ausserdem existiert eine Bank aus der das Geld in die Hände der Spieler gelangt oder wieder zurück.
+Häuser und Hotels liegen ebenfalls in der Bank. 
+Geld Häuser und Hotels sind nur in endlichen Mengen vorhanden.
+
+
+
+
+
+
 === Feedback Alpers, 2016-04-27 ===
 
 Da Sie ohne Rücksprach eine Projektidee umgesetzt habe, haben Sie jetzt ein Problem: Sie sollten gerade kein Spiel umsetzen, das Sie kennen. Hätten Sie mich hierzu angesprochen, dann hätte ich Ihnen das direkt gesagt. Also gilt weiterhin: Bitte verwenden Sie als Vorlage für Ihr Projekt das Spiel Monopoly.

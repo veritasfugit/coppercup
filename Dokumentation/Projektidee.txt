@@ -151,12 +151,7 @@ Sie können mit einer verstärkten Arbeit meinerseits in den nächsten Wochen de
 
 ============================================================
 === 3. Aktualisierte Projektidee veritasfugit 2016-07-19 ===
-============================================================
-
-// Seit wann ist das Spiel eigentlich plötzlich mit dem Internet verbunden? Bei den Projekten die wir uns ausdenken mussten war das noch verboten... Darum gabs natürlich auch keinen Log-In Button oder Highscore Listen.
-// Ausserdem ist das Spiel doch von vornherein schon auf mehr als 5 Spieler ausgelegt gewesen. Warum erwähnen sie dann noch einmal das ich mehr als 5 Spieler unterstützen soll?
-
-// Ich versuche nun also ihre Gedanken zu lesen und das Projekt ihren eventuellen Vorstellungen anzupassen. 
+============================================================ 
 
 Vor dem Spiel kann ein Spieler ein Spiel Hosten und evtl auf andere Spieler warten. 
 Ansonsten können leere Plätze mit Computergegnern aufgefüllt werden.

@@ -1,42 +1,52 @@
 <!--
-Das Programm soll folgende Strukturellen Elemente beinhalten:
+Das Programm Monopoly soll folgende Strukturellen Elemente beinhalten:
 
 - Log-In Maske
 -- Textfeld für Username
 -- Feld ohne Anzeige für die Passworteingabe
-- Tabelle 4x4 (Für die Anzeige des Spielfelds, ohne die Handkarten des Spielers. Aktion bei Klick auf die Karten. Funktion abhängig von Kartentyp)
--- Dorf und Heldenkarten: Kaufen
--- Monsterkarten: Kampf
-- Tabelle 7x1 (Für die Anzeige der Handkarten des Spielers. Menü bei klick auf eine Karte)
--- Option1: Karte zurückhalten
--- Option2: Karte zerstören
-- Schaltfläche zum Beenden der Runde (Muss nur sichtbar/anwählbar sein wenn Karten zum zurückhalten ausgewählt sind)
-- Hintergrundbild
+-- 2 Schaltflächen für die Optionen: "Spiel Hosten" und "Spiel Beitreten"
 
+- Spiel Beitreten ->
+-- Eingabefeld für eine IP Adresse samt Bestätigunngsknopf
+
+- Spiel Hosten ->
+-- Anzeigefeld für die Teilnehmenden Spieler.
+-- Schieberegler zur Einstellung der Maximalspieleranzahl.
+-- Checkbox für die Option zur Auffüllung leerer Spielerplätze mit Computergegnern.
+-- Checkbox für die Option zur Zufallsgenerierung des Spielfelds.
+-- Drop-Down Menü für die Siegbedinungen. (Zb eine bestimmte Menge an erwirtschaftetem Geld oder der Pleite von X Spielern)
+-- Eventuelle Zusatzregeln wie zb. dem Spielen mit offener Einsicht der Geldbestände der anderen Spieler.
+
+- Spielplan ->
+-- Hintergrundbild
+-- Straßen und andere "Zugfelder" auf die Spielfiguren ziehen können. Position und Anzahl kann abhängig von der Spieleranzahl und den Optionen variieren.
+-- Spielfiguren die nach dem Würfeln automatisch die gewürfelte Anzahl Felder weitergezogen werden.
+-- Digitale Würfel mit einem Knopf zum Würfeln. Alternativ kann würfeln auch durch klicken und "wischen" über das Würfelfeld passieren.
+
+- "Würfelmenü" (Erscheint nach dem Würfeln des Spielers) ->
+-- Tabelle mit passenden Optionen für das Feld auf das gezogen wurde.
+--- Straße Kaufen 
+--- Haus/Hotel kaufen
+--- Miete regulär Zahlen
+--- Angebot machen
+- Alternativ zum Würfelmenü kann auch nur eine Ereignisanzeige folgen ->
+-- Grafik in der Mitte des Bildschirms mit dem Text einer Ereignis oder Gemeinschaftskarte oder dem Erhaltenen Geld durch Frei Parken oder "Los".
+
+- "Antwort Menü" (Wenn ein anderer Spieler auf ein eigenes Feld zieht)
+-- Tabelle mit passenden Schaltflächen als Reaktion auf die Wahl des anderen Spielers.
+--- Auf Mietpreis bestehen
+--- Angebot annehmen/ablehnen
+- Alternativ kann auch hier nur eine Ereignisanzeige folgen:
+-- Grafik mit der Menge an erhaltenen Mieteinnahmen
+
+- Weiterhin benötigt werden:
+-- Eine Anzeige für den Spieler der gerade am Zug ist.
+-- Eine Anzeige für das aktuelle Geld des Spielers/Der Spieler.
+-- Eine Anzeige für alle Spieler bei erreichen der Siegbedinungen eines Spielers auftaucht. 
+--- Auswertung des Spiels in einer Tabelle mit Statistiken für alle Spieler im Vergleich
 -->
+
 <!--
-	=== Feedback ThiPhuongThaoHo, 2016-04-14 ===
-Ich würde gerne Ihnen einpaar Vorschälge geben, um Ihre strukturellen Elemente zu verbessern
--In Log-In Maske:
-     -- Schaltflaeche für die Bestätigung des Spielernames und für den Start des Spiels ( Nach dem  Feld ohne Anzeige für die Passworteingabe )
-- Textfeld für Spielanleitung.
-- Hintergrundemusik.
+Aufgrund der Änderung des Projektes musste ich leider die Kommentare meiner Mitstudenten entfernen. Danke trotzdem für die Mühe. :)
+
 -->
-
-SusannaAlbrecht:
-Hier ein paar Überlegungen und Anregungen für Ergänzungen:
--	Woraus besteht die Struktur "Karte" selbst? Nur aus einer Bilddatei oder auch aus Feldern mit Variablen, die der Computer 
-	versteht? (z.B. Variablen mit Punkten für eine bestimmte Fähigkeit/Stärke, sodass die Karten verglichen werden können, z.B.
-			Karte A hat 5 Kampfpunkte, Karte B hat 7 Kampfpunkte -->Computer weiß: Karte B stärker als Karte A)
--	Was bedeutet, jeder Stapel hat "unendlich" viele Karten, wie in der Projektidee beschrieben?
-	- ? 	Es gibt endlich viele Karten, die vorher definiert wurden, man kann aber unendlich oft eine neue ziehen
-		(entspricht dem Mischen und erneuten Hinlegen der Karten im echten Spiel)
-	- ?	Es gibt unendlich viele Karten insofern, alsdass jede gezogene neu vom Computer selbst generiert wird
-		(dafür kann die Struktur "Karte" nicht nur aus einer Bilddatei bestehen und ein Zufallsgenerator muss
-		eingebunden werden)
--	Hintergrundmusik empfehle ich auch, um die Sache abzurunden
--	da fällt mir ein, was bei mir auch fehlt: Bilddatei als Startbildschirm mit Logo und Aufmacherbild, nach Klick geht es
-	zum eigentlichen Spiel
-
-<!-- Vielleicht noch eine weitere Idee meiner Seite. Wie sieht es mit Rundenübergreifenden Statistiken aus?
-Also gewonnene Spiele im Vergleich zu Verlorenen Spielen. Und daraus resultierend - wenn das Spiel onilne laufen soll - eine Leaderboards? -->

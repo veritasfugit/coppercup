@@ -1,3 +1,66 @@
+============================================================
+=== 3. Aktualisierte Projektidee veritasfugit 2016-07-19 ===
+============================================================ 
+
+Vor dem Spiel kann ein Spieler ein Spiel Hosten und evtl auf andere Spieler warten. 
+Ansonsten können leere Plätze mit Computergegnern aufgefüllt werden.
+ 
+Jeder Spieler hat ein festes Startkapital.
+Die Spielerfiguren fangen alle auf einem Feld namens "Los" an.
+
+Die Spieler oder Computerspieler sind nacheinander an der Reihe, 
+Würfeln mit zwei 6 Seitigen Würfel, 
+ziehen ihr Spielfigur im Uhrzeigersinn um die gewürfelte Anzahl vorwärts und 
+führt die mit dem Zielfeld verknüpften Befehle aus.
+Wenn ein Pasch gewürfelt wird, wird gezogen und der Spieler darf nochmals würfeln.
+
+Wenn ein Spieler auf eine Straße ziehen muss die bereits im Besitz eines anderen Spielers ist muss er dem Besitzer Mietzahlungn abhängig von den
+auf der Straße gebauten Häusern/Hotels zahlen.
+Der Spieler hat die Möglichkeit statt Mietzahlungen Alternative Angebote zu machen.
+Zb. aber nicht darauf reduziert: 
+ - Eine Straße abzugeben statt der Mietzahlungen.
+ - Die Mietschuld jede Runde in Raten, mit Zinsen zu Zahlen.
+ - Versprechen zu einer bestimmten Handlung zu machen.
+Hier soll den Spielern ein größerer Handlungsfreiraum zur Interaktion miteinander gegeben werden. 
+Wenn ein Spieler diese Miete nicht zahlen kann, hat er mehrere Möglichkeiten:
+ - Hypothek auf eigene Straße aufnehmen um von der Bank etwas Geld zu bekommen.
+ - eine Straße an den anderen Spieler abtreten.
+ - Aus dem "Spiel" aussteigen.
+ 
+Wenn ein Spieler auf eine Straße im eigenen Besitz kommt und er alle Straßen von diesem Set besitzt, 
+kann er Häuser oder Hotels kaufen 
+um die "Mietkosten" für fremde Spieler die auf solch eine Straße treten zu erhöhen. 
+
+Das Spiel endet wenn alle bis auf einen Spieler ausgestiegen sind. 
+
+Das Spielfeld kann abhängig von der Spieleranzahl unterschiedlich groß sein. Das Spielfeld kann zufällig vor einem Spiel generiert werden.
+Es besteht aus folgenden möglichen Feldern: 
+- Straßenfelder / Straßensets
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über eine Straße darstellt und weitere Sonderregeln aufzählt.
+	- Alle Strassen gehören zu einem gleichfarbigen Set.
+- Bahnhofsfelder
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über einen Bahnhof darstellt und weitere Sonderregeln aufzählt.
+- Jeweils 1 Elektrizitäts und Wasserwerkfeld
+	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über ein Werk darstellt und weitere Sonderregeln aufzählt.
+- Ereignisfelder
+	- Weisen an, eine Karte vom Ereignisstapel zu ziehen und die Anweisung auszuführen.
+- Gemeinschaftsfelder
+	- Weisen an, eine Karte vom Gemeinschaftsstapel zu ziehen und die Anweisung auszuführen.
+- Jeweils Zusatzsteuer und Einkommenssteuerfeld
+	- Verpflichten zur Zahlung eines festen Geldbetrages an die "Steuerkasse".
+- 1 Los Feld
+	- Als Startpunkt für alle Spielerfiguren. Bei wiederholtem überschreiten bekommt der Spieler 4000 Währungseinheiten.
+- 1 Gefängnisfeld
+- Frei Parkenfeld
+- Gehe ins Gefängnisfeld
+
+Zusätzlich befindet sich auf dem Spielplan:
+- Jeweils 1 Ereigniskarten und Gemeinschaftskartenstapel
+- die "Steuerkasse"
+
+Ausserdem existiert eine Bank aus der das Geld in die Hände der Spieler gelangt oder wieder zurück.
+Häuser und Hotels liegen ebenfalls in der Bank. 
+
 ==========================================================
 === 2. Aktualisiertes Projekt veritasfugit, 2016-05-10 ===
 ==========================================================
@@ -149,66 +212,46 @@ Allerdings war ich die letzten Wochen mit der Beendigung anderer Projekte und vo
 den Klausurenvorbereitungen beschäftigt. 
 Sie können mit einer verstärkten Arbeit meinerseits in den nächsten Wochen der Semesterferien rechnen.
 
-============================================================
-=== 3. Aktualisierte Projektidee veritasfugit 2016-07-19 ===
-============================================================ 
+===================================
+=== Feedback Alpers, 2016-07-25 ===
+===================================
 
-Vor dem Spiel kann ein Spieler ein Spiel Hosten und evtl auf andere Spieler warten. 
-Ansonsten können leere Plätze mit Computergegnern aufgefüllt werden.
- 
-Jeder Spieler hat ein festes Startkapital.
-Die Spielerfiguren fangen alle auf einem Feld namens "Los" an.
+Zunächst nochmal etwas bezüglich des Hinweises auf die kontinuierliche Arbeit: Es ist verständlich, wenn Sie sich in der Zeit vor den Klausuren vorrangig um die Vorbereitung auf die Klausuren konzentrieren wollen, aber Sie haben (ähnlich wie der größte Teil Ihrer Kommilitonen) Anfang Mai (also fast zwei Monate vor den Klausuren) mit der Arbeit am Projekt aufgehört. Da Sie effektiv Ende April damit begonnen haben, haben Sie effektiv keine Projektarbeit geleistet. Es ist das zentrale Problem praktisch aller Studienanfänger die Arbeit für die verschiedenen Veranstaltungen sinnvoll zu verteilen, aber genau das müssen Sie sehr schnell verinnerlichen. Schauen Sie sich in dem Zusammenhang auch nochmal meine grunsätzlichen Hinweise im Lernraum an, die ich am Semesterbeginn eingestellt hatte. So lange Sie jedenfall für einzelne Veranstaltungen punktuell viel Arbeit leisten werden Sie in den meisten anspruchsvollen Veranstaltungen eine Bruchlandung erleben.
 
-Die Spieler oder Computerspieler sind nacheinander an der Reihe, 
-Würfeln mit zwei 6 Seitigen Würfel, 
-ziehen ihr Spielfigur im Uhrzeigersinn um die gewürfelte Anzahl vorwärts und 
-führt die mit dem Zielfeld verknüpften Befehle aus.
-Wenn ein Pasch gewürfelt wird, wird gezogen und der Spieler darf nochmals würfeln.
+Jetzt zum Feedback bezüglich des aktuellen Stands:
 
-Wenn ein Spieler auf eine Straße ziehen muss die bereits im Besitz eines anderen Spielers ist muss er dem Besitzer Mietzahlungn abhängig von den
-auf der Straße gebauten Häusern/Hotels zahlen.
-Der Spieler hat die Möglichkeit statt Mietzahlungen Alternative Angebote zu machen.
-Zb. aber nicht darauf reduziert: 
- - Eine Straße abzugeben statt der Mietzahlungen.
- - Die Mietschuld jede Runde in Raten, mit Zinsen zu Zahlen.
- - Versprechen zu einer bestimmten Handlung zu machen.
-Hier soll den Spielern ein größerer Handlungsfreiraum zur Interaktion miteinander gegeben werden. 
-Wenn ein Spieler diese Miete nicht zahlen kann, hat er mehrere Möglichkeiten:
- - Hypothek auf eigene Straße aufnehmen um von der Bank etwas Geld zu bekommen.
- - eine Straße an den anderen Spieler abtreten.
- - Aus dem "Spiel" aussteigen.
- 
-Wenn ein Spieler auf eine Straße im eigenen Besitz kommt und er alle Straßen von diesem Set besitzt, 
-kann er Häuser oder Hotels kaufen 
-um die "Mietkosten" für fremde Spieler die auf solch eine Straße treten zu erhöhen. 
+== I ==
+Leider ist Ihre Beschreibung deutlich zu nah an einem Brettspiel. Hier nochmal der entsprechende Hinweis: Es geht nicht um die Umsetzung eines Brettspiels, sondern Sie sollen basierend auf einem Brettspiel ein interaktives webbasiertes Spiel entwickeln.
 
-Das Spiel endet wenn alle bis auf einen Spieler ausgestiegen sind. 
+Beispiel:
+"Würfeln mit zwei 6 Seitigen Würfel, "
 
-Das Spielfeld kann abhängig von der Spieleranzahl unterschiedlich groß sein. Das Spielfeld kann zufällig vor einem Spiel generiert werden.
-Es besteht aus folgenden möglichen Feldern: 
-- Straßenfelder / Straßensets
-	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über eine Straße darstellt und weitere Sonderregeln aufzählt.
-	- Alle Strassen gehören zu einem gleichfarbigen Set.
-- Bahnhofsfelder
-	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über einen Bahnhof darstellt und weitere Sonderregeln aufzählt.
-- Jeweils 1 Elektrizitäts und Wasserwerkfeld
-	- Werden zugleich durch eine Karte dargestellt die den "Besitz" über ein Werk darstellt und weitere Sonderregeln aufzählt.
-- Ereignisfelder
-	- Weisen an, eine Karte vom Ereignisstapel zu ziehen und die Anweisung auszuführen.
-- Gemeinschaftsfelder
-	- Weisen an, eine Karte vom Gemeinschaftsstapel zu ziehen und die Anweisung auszuführen.
-- Jeweils Zusatzsteuer und Einkommenssteuerfeld
-	- Verpflichten zur Zahlung eines festen Geldbetrages an die "Steuerkasse".
-- 1 Los Feld
-	- Als Startpunkt für alle Spielerfiguren. Bei wiederholtem überschreiten bekommt der Spieler 4000 Währungseinheiten.
-- 1 Gefängnisfeld
-- Frei Parkenfeld
-- Gehe ins Gefängnisfeld
+Würfel gibt es in einem Computerspiel nur dann, wenn es eine 1:1-Umsetzung eines Brettspiels ist. In Computerspielen haben wir Zufallsgeneratoren. Die können wir zwar optisch als Würfel darstellen, aber das macht regelmäßig wenig Sinn: Sechsseitige Würfel sind eine der Würfelformen, auf die wir bei realen Gegenständen beschränkt sind. In Computerspielen können wir beliebige Intervalle für Zufallszahlengeneratoren verwenden. Also sollten wir immer prüfen, welche Intervall sinnvoll sind.
 
-Zusätzlich befindet sich auf dem Spielplan:
-- Jeweils 1 Ereigniskarten und Gemeinschaftskartenstapel
-- die "Steuerkasse"
+"ziehen ihr Spielfigur im Uhrzeigersinn um die gewürfelte Anzahl vorwärts"
+Auch das ist eine reine Brettspielbeschreibung. In einem Computerspiel mit Spielfeldern ist es guter Stil, dem Spieler anzuzeigen, auf welche Spielfelder er seine Figur bewegen kann. Dagegen ist es ausgesprochen schlechter Stil, ihm die Anzahl Felder als Zahl/Grafik anzuzeigen und ihn mit Fehlermeldungen zu ärgern, wenn er kein passendes Feld angewählt hat.
 
-Ausserdem existiert eine Bank aus der das Geld in die Hände der Spieler gelangt oder wieder zurück.
-Häuser und Hotels liegen ebenfalls in der Bank. 
+== II ==
+Leider ist es Ihnen auch passiert, dass eine Beschreibung zu Logikfehlern im Programm führen wird:
 
+"Wenn ein Pasch gewürfelt wird, wird gezogen und der Spieler darf nochmals würfeln."
+
+Wenn das so programmiert wird, dann wird nicht ausgewertet, was auf dem Spielfeld passiert, auf das der Spieler als nächstes gelangt, sondern es wird direkt nochmal "gewürfelt".
+
+== III ==
+An anderer Stelle verschieben Sie eine wichtige Entscheidung nach hinten:
+
+"Hier soll den Spielern ein größerer Handlungsfreiraum zur Interaktion miteinander gegeben werden."
+
+Das ist keine Beschreibung, sondern gibt an, dass Sie sich nicht ausreichend mit den Möglichkeiten auseinander gesetzt haben, die sich hier ergeben.
+
+== IV ==
+Momentan ist die Beschreibung nur schwer als Basis für die weitere Entwicklung nutzbar, weil Überschriften fehlen, die z.B. verdeutlichen, über welchen Teil des Regelwerks Sie gerade schreiben.
+
+== V ==
+Leider fallen zwischen den Beschreibungen auch essentielle Teile heraus. So fehlt momentan der Hinweis darauf, dass Spieler Geld "haben".
+
+Prüfen Sie deshalb, ob Sie zwischen den verschiedenen Beschreibungen evtl. etwas unter den Tisch haben fallen lassen, das wichtig ist bzw. Teil der Beschreibung sein soll, weil es im Spiel enthalten sein soll.
+
+== VI ==
+Leider haben Sie auch die beiden Aspekte Webbasierung und Interaktion nicht in dem Umfang ausgearbeitet, der für dieses Projekt wichtig ist. Bitte holen Sie das noch nach.
